@@ -1,6 +1,6 @@
 # qrcode-logo
 ## KETERANGAN :
-```php
+```py
 imagecreatefrompng => Digunakan untuk membuat gambar baru berformat PNG
 imagecreatefromstring=> digunakan untuk membuat gambar baru dari file string atau URL
 imagecolortransparent=> digunakan untuk mendefinisikan warna sebagai transparan
