@@ -1,4 +1,4 @@
-# qrcode-logo
+# QR Code Dengan logo
 ## KETERANGAN :
 ```py
 imagecreatefrompng => Digunakan untuk membuat gambar baru berformat PNG
@@ -9,3 +9,4 @@ imagealphablending=> igunakan untuk mengatur blending mode untuk sebuah gambar
 imagesavealpha=>digunakan untuk mengatur apakah akan menyimpan informasi saluran alfa penuh saat menyimpan gambar PNG atau tidak
 imagecopyresampled=>digunakan untuk menyalin bagian persegi panjang dari satu gambar ke gambar lain, menginterpolasi nilai piksel dengan lancar sehingga, khususnya, pengurangan ukuran gambar tetap mempertahankan banyak kejelasan
 ```
+Link Video https://youtu.be/9P2ANq5Uqzw
